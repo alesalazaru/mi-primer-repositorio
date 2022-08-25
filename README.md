@@ -39,5 +39,11 @@ Otra linea.
 Otra linea más.
 
 
-I just love **bold text**.
+I just love **bold text**.  
 __I just love bold text__.
+
+
+Italicized text is the *cat's meow*.  
+
+Italicized text is the _cat's meow_.    
+A*cat*meow  
