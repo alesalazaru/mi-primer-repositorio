@@ -20,4 +20,4 @@ Otro encabezado de nivel 2
 
 <h1>Encabezado nivel 1 en HTML</h1>
 
-<h1>Encabezado nivel 6 en HTML</h1>
+<h6>Encabezado nivel 6 en HTML</h6>
