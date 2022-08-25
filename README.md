@@ -74,4 +74,4 @@ Sócrates
 
 ![helecho](https://cdn.pixabay.com/photo/2022/08/17/05/05/ferns-7391561_960_720.jpg)  
 
-![Ardilla feliz](tihany-7403356_960_720.jpj)
+![Ardilla feliz](tihany-7403356_960_720.jpg)
