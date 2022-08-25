@@ -10,3 +10,9 @@ Enlace al sitio web de la Universidad de Costa Rica:
 
 *Texto Italica*
 
+Otro encabezado de nivel 1
+==========================
+
+
+Otro encabezado de nivel 2
+--------------------------
