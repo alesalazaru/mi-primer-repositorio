@@ -56,3 +56,15 @@ This text is ***really important***.
 Sócrates  
 
 >"*En un lugar de la Mancha..*"Miguel de Cervantes  
+
+
+
+**Lista numerada**
+1. Primer elemento
+2.  Segundo elemento  
+3.  Tercer elemento  
+
+**Lista no numerda**
+- Un elemento
+- Otro elemento
+- Otro otro elemento
