@@ -38,3 +38,6 @@ Otra linea.
 
 Otra linea más.
 
+
+I just love **bold text**.
+__I just love bold text__.
