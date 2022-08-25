@@ -66,6 +66,6 @@ Sócrates
 
 **Lista no numerda**
 - Un elemento  
--     un elemento más  
+    - un elemento más  
 - Otro elemento
 - Otro otro elemento  
