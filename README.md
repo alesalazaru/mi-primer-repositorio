@@ -83,4 +83,4 @@ Sócrates
   
   
   
-  <img src="tihany-7403356_960_720.jpg" width="200">
+  <img src="20220804_064443.jpg" width="200" "Helecho hermoso">
