@@ -76,7 +76,7 @@ Sócrates
 
 
 ![Ardilla feliz](tihany-7403356_960_720.jpg "ARDILLA")
-
+![helecho]("20220804_064443.jpg" width="200" height="300" "Helecho hermoso")  
 
   
 <img src="tihany-7403356_960_720.jpg" width="200" height="100">
